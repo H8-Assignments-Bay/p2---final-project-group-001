@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8075471&assignment_repo_type=AssignmentRepo)
 
-Final project oleh Group 1`, Batch: `11`
+Final project oleh `Group 1`, Batch: `11`
 
 Anggota Group 1:
 - Evita Ardhiya Ramadhani
@@ -8,7 +8,7 @@ Anggota Group 1:
 - Austin Christian Yonatan
 - Timothy H
 
-Judul: `**FashionFinder**`
+Judul: `FashionFinder`
 
 Dataset source: Kaggle dataset
 - Dataset Produk: 2021June-July_product_data.csv
