@@ -1,8 +1,14 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8075471&assignment_repo_type=AssignmentRepo)
 
-Final project oleh `Study Group 1`, Batch: `11`
+Final project oleh Group 1`, Batch: `11`
 
-Judul: FashionFinder
+Anggota Group 1:
+- Evita Ardhiya Ramadhani
+- Jhon Kristian Vieri
+- Austin Christian Yonatan
+- Timothy H
+
+Judul: `**FashionFinder**`
 
 Dataset source: Kaggle dataset
 - Dataset Produk: 2021June-July_product_data.csv
@@ -19,4 +25,6 @@ Dataset source: Kaggle dataset
 **Rekomendasi sistem:**
 - Rekomendasi sistem yang dibuat merupakan collaborative filtering dimana membuat model yang digunakan untuk melakukan prediksi rating produk yang belum dibeli oleh customer, kemudian dari prediksi tersebut digunakan untuk memberikan rekomendasi 5 barang dengan rating tertinggi ke customer.
 - Collabarative filtering mencari kerimiripan antar produk dari hasil cosinus similarity. Jika customer merupakan pengguna baru dan belum memberikan rating, maka rekomendasi yang diberikan berdasarkan kemiripan customer satu dengan customer lainnya.
-- Menggunakan User - Based Collaborative Filtering, karena teknik rekomendasi produk yang sering digunakan dalam membuat algoritma machine learning, algoritma ini dapat memberikan rekomendasi yang lebih baik seiring dengan bertambahnya jumlah pembelian dari penggunanya dan metode sistem rekomendasi ini sudah digunakan oleh perusahaan-perusahaan besar seperti Amazon, Netflix, eBay dan perusahaan yang menyimpan data penggunanya
+- Menggunakan User - Based Collaborative Filtering, karena teknik rekomendasi produk yang sering digunakan dalam membuat algoritma machine learning, algoritma ini dapat memberikan rekomendasi yang lebih baik seiring dengan bertambahnya jumlah pembelian dari penggunanya dan metode sistem rekomendasi ini sudah digunakan oleh perusahaan-perusahaan besar seperti Amazon, Netflix, eBay dan perusahaan yang menyimpan data penggunanya.
+
+Aplikasi FashionFinder: https://fp-001.herokuapp.com/
